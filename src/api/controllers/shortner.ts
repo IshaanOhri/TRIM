@@ -44,10 +44,7 @@ const shortenURL = async (req: Request, res: Response) => {
 				available = true;
 			}
 		}
-	} else if (
-		custom &&
-		!shortHand.match(/^([a-zA-Z0-9]+[-_]?[a-zA-Z0-9]+)+$/gm)
-	) {
+	} else if (custom && !shortHand.match(/^([a-zA-Z0-9]+[-_.~]?)+$/gm)) {
 		res.status(200).send({
 			success: false,
 			code: code.invalidCustomURL,

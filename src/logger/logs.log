@@ -3266,3 +3266,60 @@
 [2020-07-14T19:48:40.605] [INFO] default - Redis connection failure
 [2020-07-14T19:49:49.187] [INFO] default - Redis connection failure
 [2020-07-14T19:51:45.777] [INFO] default - Redis connection failure
+[2020-07-15T01:55:23.979] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T01:55:23.982] [INFO] default - Redis connection failure
+[2020-07-15T01:55:24.188] [INFO] default - Redis connection failure
+[2020-07-15T01:55:24.465] [INFO] default - Database connection successful
+[2020-07-15T01:55:24.533] [INFO] default - Redis connection failure
+[2020-07-15T01:55:25.118] [INFO] default - Redis connection failure
+[2020-07-15T01:55:26.104] [INFO] default - Redis connection failure
+[2020-07-15T01:55:27.776] [INFO] default - Redis connection failure
+[2020-07-15T01:55:30.619] [INFO] default - Redis connection failure
+[2020-07-15T01:55:35.455] [INFO] default - Redis connection failure
+[2020-07-15T01:55:43.672] [INFO] default - Redis connection failure
+[2020-07-15T01:55:59.016] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T01:55:59.019] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T01:55:59.280] [INFO] default - Database connection successful
+[2020-07-15T01:56:41.812] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 1.419 ms
+[2020-07-15T01:57:09.373] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.283 ms
+[2020-07-15T01:57:37.952] [INFO] default - Method: POST URL: /create Status: undefined Resp Time: undefined ms
+[2020-07-15T01:57:37.953] [INFO] default - Method: POST URL: /create Status: undefined Resp Time: undefined ms
+[2020-07-15T01:57:45.663] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.171 ms
+[2020-07-15T01:57:45.671] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 4.292 ms
+[2020-07-15T01:57:57.653] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.115 ms
+[2020-07-15T01:57:57.665] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 3.952 ms
+[2020-07-15T01:59:43.981] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.213 ms
+[2020-07-15T01:59:43.989] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.329 ms
+[2020-07-15T02:01:07.810] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.750 ms
+[2020-07-15T02:01:07.821] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 7.054 ms
+[2020-07-15T02:01:12.350] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 3.580 ms
+[2020-07-15T02:02:28.798] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.160 ms
+[2020-07-15T02:02:28.807] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 4.045 ms
+[2020-07-15T02:03:17.782] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.185 ms
+[2020-07-15T02:03:17.793] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 1.769 ms
+[2020-07-15T02:03:26.292] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.197 ms
+[2020-07-15T02:03:26.298] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.609 ms
+[2020-07-15T02:03:34.999] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.286 ms
+[2020-07-15T02:03:35.008] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.292 ms
+[2020-07-15T02:03:41.378] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.601 ms
+[2020-07-15T02:03:41.383] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.009 ms
+[2020-07-15T02:04:34.006] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.231 ms
+[2020-07-15T02:04:34.011] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.806 ms
+[2020-07-15T02:04:47.094] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.160 ms
+[2020-07-15T02:04:47.102] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.379 ms
+[2020-07-15T02:12:51.562] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 1.582 ms
+[2020-07-15T02:12:51.572] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 4.518 ms
+[2020-07-15T02:13:00.046] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.176 ms
+[2020-07-15T02:13:00.055] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.432 ms
+[2020-07-15T02:13:32.965] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.219 ms
+[2020-07-15T02:13:32.971] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.770 ms
+[2020-07-15T02:15:29.120] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.312 ms
+[2020-07-15T02:15:29.125] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.748 ms
+[2020-07-15T02:15:38.821] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.162 ms
+[2020-07-15T02:15:38.827] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 1.581 ms
+[2020-07-15T02:15:46.017] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.159 ms
+[2020-07-15T02:15:46.024] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.338 ms
+[2020-07-15T02:16:07.662] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.170 ms
+[2020-07-15T02:16:07.669] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.661 ms
+[2020-07-15T02:16:16.961] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.129 ms
+[2020-07-15T02:16:16.967] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 2.123 ms
