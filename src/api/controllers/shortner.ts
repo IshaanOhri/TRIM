@@ -4,7 +4,6 @@ import { Request, Response } from 'express';
 import validator from 'validator';
 import { code, message } from '../../config/messages';
 import URL from '../../modals/url';
-import { IURL } from '../../interfaces/IURL';
 import logger from '../../logger/logger-config';
 import { redisClient, getAsync } from '../../app';
 
