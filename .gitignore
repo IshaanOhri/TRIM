@@ -1,0 +1,6 @@
+node_modules
+bin
+nginx.conf
+src/config/dev.env
+.DS_Store
+ecosystem.config.js
