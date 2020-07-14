@@ -5,11 +5,9 @@ import validator from 'validator';
 import { code, message } from '../../config/messages';
 import URL from '../../modals/url';
 import logger from '../../logger/logger-config';
-import { redisClient, getAsync } from '../../app';
+import { getAsync, redisClient } from '../../app';
 
 const cryptoRandomString = require('crypto-random-string');
-
-const { promisify } = require('util');
 
 const shortenURL = async (req: Request, res: Response) => {
 	let {

@@ -3323,3 +3323,24 @@
 [2020-07-15T02:16:07.669] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.661 ms
 [2020-07-15T02:16:16.961] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.129 ms
 [2020-07-15T02:16:16.967] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 2.123 ms
+[2020-07-15T02:25:34.601] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T02:25:34.605] [INFO] default - Redis connection failure
+[2020-07-15T02:25:34.807] [INFO] default - Redis connection failure
+[2020-07-15T02:25:35.007] [INFO] default - Database connection successful
+[2020-07-15T02:25:35.154] [INFO] default - Redis connection failure
+[2020-07-15T02:25:35.737] [INFO] default - Redis connection failure
+[2020-07-15T02:25:36.723] [INFO] default - Redis connection failure
+[2020-07-15T02:25:38.396] [INFO] default - Redis connection failure
+[2020-07-15T02:25:41.244] [INFO] default - Redis connection failure
+[2020-07-15T02:25:46.081] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T02:25:53.546] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T02:25:53.549] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T02:25:53.797] [INFO] default - Database connection successful
+[2020-07-15T02:27:22.876] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 12.467 ms
+[2020-07-15T02:36:20.783] [INFO] default - Redis connection failure
+[2020-07-15T02:36:21.127] [INFO] default - Redis connection failure
+[2020-07-15T02:36:21.712] [INFO] default - Redis connection failure
+[2020-07-15T02:36:22.701] [INFO] default - Redis connection failure
+[2020-07-15T02:36:24.376] [INFO] default - Redis connection failure
+[2020-07-15T02:36:27.224] [INFO] default - Redis connection failure
+[2020-07-15T02:36:32.061] [INFO] default - Redis connection failure

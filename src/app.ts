@@ -5,7 +5,7 @@ import path from 'path';
 import redis, { RedisClient } from 'redis';
 import logger from './logger/logger-config';
 import { message } from './config/messages';
-import shortner from './api/routes/shortner';
+import shortener from './api/routes/shortener';
 
 require('./database/database');
 
@@ -50,13 +50,6 @@ app.use(
 app.use(cors());
 app.use(express.json());
 
-app.get('/', (req, res) => {
-	res.send({
-		success: true,
-		message: message.welcome
-	});
-});
-
 app.get('/health', async (req, res) => {
 	res.send({
 		success: true,
@@ -64,7 +57,7 @@ app.get('/health', async (req, res) => {
 	});
 });
 
-app.use(shortner);
+app.use(shortener);
 
 app.listen(PORT, () => {
 	logger.info(`Server running on http://localhost:${PORT}`);
