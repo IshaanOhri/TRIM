@@ -2,7 +2,7 @@
 	"name": "url-shortner",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "app.js",
 	"scripts": {
 		"build": "node build.js",
 		"start": "pm2 restart ./ecosystem.config.js",

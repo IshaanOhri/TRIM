@@ -121,7 +121,7 @@ async function shortenURL() {
 
 	let json;
 	if (urlValue != '' && !customValue) {
-		const req = await fetch('http://localhost:3000/create', {
+		const req = await fetch('https://trim.sytes.net/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
@@ -152,7 +152,7 @@ async function shortenURL() {
 			alert(json.message);
 		}
 	} else if (urlValue != '' && customValue && shortHandValue != '') {
-		const req = await fetch('http://localhost:3000/create', {
+		const req = await fetch('https://trim.sytes.net/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
@@ -206,5 +206,5 @@ function disableScroll() {
 		window.location = b;
 })(
 	navigator.userAgent || navigator.vendor || window.opera,
-	'http://localhost:3000/mobile.html'
+	'https://trim.sytes.net/mobile.html'
 );
