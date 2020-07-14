@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"build": "node build.js",
-		"start": "",
+		"start": "pm2 restart ./ecosystem.config.js",
 		"dev": "env-cmd -f ./src/config/dev.env ts-node ./src/app.ts",
 		"lint": "pretty-quick --staged && lint-staged"
 	},

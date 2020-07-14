@@ -3225,3 +3225,44 @@
 [2020-07-14T19:24:45.328] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 16.075 ms
 [2020-07-14T19:24:54.191] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 5.863 ms
 [2020-07-14T19:25:00.749] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 1.232 ms
+[2020-07-14T19:39:26.309] [INFO] default - Server running on http://localhost:3000
+[2020-07-14T19:39:26.315] [INFO] default - Redis running at http://localhost:6379
+[2020-07-14T19:39:26.731] [INFO] default - Database connection successful
+[2020-07-14T19:39:30.039] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 1.807 ms
+[2020-07-14T19:39:30.061] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 18.616 ms
+[2020-07-14T19:39:32.882] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 2.428 ms
+[2020-07-14T19:39:35.596] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.293 ms
+[2020-07-14T19:39:35.599] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.716 ms
+[2020-07-14T19:39:59.564] [INFO] default - Server running on http://localhost:3000
+[2020-07-14T19:39:59.569] [INFO] default - Redis running at http://localhost:6379
+[2020-07-14T19:39:59.818] [INFO] default - Database connection successful
+[2020-07-14T19:40:02.569] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 1.690 ms
+[2020-07-14T19:40:02.591] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 17.931 ms
+[2020-07-14T19:44:19.391] [INFO] default - Method: OPTIONS URL: /create Status: 204 Resp Time: 0.716 ms
+[2020-07-14T19:44:19.417] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 9.326 ms
+[2020-07-14T19:44:59.396] [INFO] default - Here
+[2020-07-14T19:44:59.400] [INFO] default - Server running on http://localhost:3000
+[2020-07-14T19:44:59.401] [INFO] default - Redis running at http://localhost:6379
+[2020-07-14T19:44:59.726] [INFO] default - Database connection successful
+[2020-07-14T19:45:21.878] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 26.367 ms
+[2020-07-14T19:45:24.842] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 2.509 ms
+[2020-07-14T19:45:26.154] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.264 ms
+[2020-07-14T19:45:44.411] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 7.284 ms
+[2020-07-14T19:45:59.522] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 2.026 ms
+[2020-07-14T19:46:12.878] [INFO] default - Server running on http://localhost:3000
+[2020-07-14T19:46:12.882] [INFO] default - Redis running at http://localhost:6379
+[2020-07-14T19:46:13.562] [INFO] default - Database connection successful
+[2020-07-14T19:46:17.543] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 16.676 ms
+[2020-07-14T19:47:03.070] [INFO] default - Redis connection failure
+[2020-07-14T19:47:03.416] [INFO] default - Redis connection failure
+[2020-07-14T19:47:03.997] [INFO] default - Redis connection failure
+[2020-07-14T19:47:04.983] [INFO] default - Redis connection failure
+[2020-07-14T19:47:06.657] [INFO] default - Redis connection failure
+[2020-07-14T19:47:09.506] [INFO] default - Redis connection failure
+[2020-07-14T19:47:14.341] [INFO] default - Redis connection failure
+[2020-07-14T19:47:22.552] [INFO] default - Redis connection failure
+[2020-07-14T19:47:36.519] [INFO] default - Redis connection failure
+[2020-07-14T19:48:00.261] [INFO] default - Redis connection failure
+[2020-07-14T19:48:40.605] [INFO] default - Redis connection failure
+[2020-07-14T19:49:49.187] [INFO] default - Redis connection failure
+[2020-07-14T19:51:45.777] [INFO] default - Redis connection failure
