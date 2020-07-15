@@ -18,8 +18,6 @@ function hideCustomDomain(){
         domain.style.display = "none";
     }
 }
-shortURL.value = "Ishaan";
-
 function copyShortLink(){
     shortURL.select();
 	shortURL.setSelectionRange(0, 99999);
