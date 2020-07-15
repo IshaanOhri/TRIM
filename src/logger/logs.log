@@ -3752,3 +3752,8 @@
 [2020-07-15T12:07:51.340] [INFO] default - Server running on http://localhost:3000
 [2020-07-15T12:07:51.343] [INFO] default - Redis running at http://localhost:6379
 [2020-07-15T12:07:51.766] [INFO] default - Database connection successful
+[2020-07-15T16:19:17.886] [INFO] default - Redis connection failure
+[2020-07-15T16:19:18.239] [INFO] default - Redis connection failure
+[2020-07-15T16:19:18.861] [INFO] default - Redis connection failure
+[2020-07-15T16:19:19.848] [INFO] default - Redis connection failure
+[2020-07-15T16:19:21.521] [INFO] default - Redis connection failure
