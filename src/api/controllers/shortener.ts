@@ -82,13 +82,12 @@ const shortenURL = async (req: Request, res: Response) => {
 };
 
 const redirect = async (req: Request, res: Response) => {
-	await redisClient.get(req.url.slice(1), (err, reply) => {
-		if (reply === null) {
-			res.redirect('/');
-		} else {
-			res.redirect(reply);
-		}
-	});
+	const site = await getAsync(req.url.slice(1));
+	if (site !== null) {
+		res.redirect(site);
+	} else {
+		res.redirect('/');
+	}
 };
 
 export { shortenURL, redirect };

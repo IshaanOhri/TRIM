@@ -3362,3 +3362,303 @@
 [2020-07-15T02:38:36.873] [INFO] default - Redis connection failure
 [2020-07-15T02:39:17.227] [INFO] default - Redis connection failure
 [2020-07-15T02:40:25.814] [INFO] default - Redis connection failure
+[2020-07-15T03:03:37.449] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:03:37.452] [INFO] default - Redis connection failure
+[2020-07-15T03:03:37.654] [INFO] default - Redis connection failure
+[2020-07-15T03:03:37.906] [INFO] default - Database connection successful
+[2020-07-15T03:03:38.000] [INFO] default - Redis connection failure
+[2020-07-15T03:03:38.582] [INFO] default - Redis connection failure
+[2020-07-15T03:03:39.573] [INFO] default - Redis connection failure
+[2020-07-15T03:03:41.248] [INFO] default - Redis connection failure
+[2020-07-15T03:03:44.093] [INFO] default - Redis connection failure
+[2020-07-15T03:03:52.032] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:03:52.035] [INFO] default - Redis connection failure
+[2020-07-15T03:03:52.241] [INFO] default - Redis connection failure
+[2020-07-15T03:03:52.375] [INFO] default - Database connection successful
+[2020-07-15T03:03:52.588] [INFO] default - Redis connection failure
+[2020-07-15T03:03:53.172] [INFO] default - Redis connection failure
+[2020-07-15T03:03:54.161] [INFO] default - Redis connection failure
+[2020-07-15T03:03:55.838] [INFO] default - Redis connection failure
+[2020-07-15T03:03:58.684] [INFO] default - Redis connection failure
+[2020-07-15T03:04:03.520] [INFO] default - Redis connection failure
+[2020-07-15T03:04:13.236] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:04:13.240] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:04:13.504] [INFO] default - Database connection successful
+[2020-07-15T03:04:41.492] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 11.278 ms
+[2020-07-15T03:05:13.545] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:05:13.550] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:05:13.983] [INFO] default - Database connection successful
+[2020-07-15T03:05:16.836] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 29.815 ms
+[2020-07-15T03:05:28.646] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 28.926 ms
+[2020-07-15T03:05:35.075] [INFO] default - Method: GET URL: /~LT6d Status: 302 Resp Time: 5.517 ms
+[2020-07-15T03:05:35.148] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.631 ms
+[2020-07-15T03:05:43.982] [INFO] default - Method: GET URL: /~LT6d Status: 302 Resp Time: 0.986 ms
+[2020-07-15T03:05:43.992] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.538 ms
+[2020-07-15T03:06:36.030] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:06:36.033] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:06:36.426] [INFO] default - Database connection successful
+[2020-07-15T03:06:47.351] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 22.532 ms
+[2020-07-15T03:06:59.805] [INFO] default - Method: GET URL: /BJAyO Status: 302 Resp Time: 4.971 ms
+[2020-07-15T03:06:59.828] [INFO] default - Method: GET URL: /www.google.com Status: 302 Resp Time: 1.211 ms
+[2020-07-15T03:09:50.757] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:09:50.761] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:09:51.194] [INFO] default - Database connection successful
+[2020-07-15T03:09:58.649] [INFO] default - Method: GET URL: /BJAyO Status: 301 Resp Time: 2.469 ms
+[2020-07-15T03:09:58.721] [INFO] default - Method: GET URL: /www.google.com Status: 302 Resp Time: 8.068 ms
+[2020-07-15T03:10:10.347] [INFO] default - Method: GET URL: /www.google.com Status: 302 Resp Time: 0.741 ms
+[2020-07-15T03:10:36.145] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:10:36.148] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:10:36.378] [INFO] default - Database connection successful
+[2020-07-15T03:10:40.371] [INFO] default - Method: GET URL: /www.google.com Status: 302 Resp Time: 4.557 ms
+[2020-07-15T03:10:55.674] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 23.495 ms
+[2020-07-15T03:11:01.596] [INFO] default - Method: GET URL: /EP40J Status: 301 Resp Time: 0.890 ms
+[2020-07-15T03:11:01.612] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 1.552 ms
+[2020-07-15T03:11:09.116] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.661 ms
+[2020-07-15T03:11:58.359] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:11:58.363] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:11:58.790] [INFO] default - Database connection successful
+[2020-07-15T03:12:02.911] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 5.481 ms
+[2020-07-15T03:12:13.117] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 1.117 ms
+[2020-07-15T03:14:56.220] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:14:56.223] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:14:56.699] [INFO] default - Database connection successful
+[2020-07-15T03:15:06.903] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 25.595 ms
+[2020-07-15T03:15:20.823] [INFO] default - Method: GET URL: /QP1vV Status: 301 Resp Time: 1.288 ms
+[2020-07-15T03:15:20.864] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 3.125 ms
+[2020-07-15T03:16:17.354] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:16:17.357] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:16:17.764] [INFO] default - Database connection successful
+[2020-07-15T03:16:21.861] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 6.001 ms
+[2020-07-15T03:16:36.989] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:16:36.992] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:16:37.298] [INFO] default - Database connection successful
+[2020-07-15T03:16:39.628] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 5.858 ms
+[2020-07-15T03:16:39.630] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.407 ms
+[2020-07-15T03:16:39.633] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.328 ms
+[2020-07-15T03:16:39.636] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.340 ms
+[2020-07-15T03:16:39.640] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.327 ms
+[2020-07-15T03:16:39.643] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.332 ms
+[2020-07-15T03:16:39.646] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.304 ms
+[2020-07-15T03:16:39.648] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.328 ms
+[2020-07-15T03:16:39.651] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.329 ms
+[2020-07-15T03:16:39.654] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.314 ms
+[2020-07-15T03:16:39.656] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.309 ms
+[2020-07-15T03:16:39.659] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.302 ms
+[2020-07-15T03:16:39.661] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.292 ms
+[2020-07-15T03:16:39.664] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.288 ms
+[2020-07-15T03:16:39.667] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.298 ms
+[2020-07-15T03:16:39.669] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.287 ms
+[2020-07-15T03:16:39.671] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.257 ms
+[2020-07-15T03:16:39.674] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.253 ms
+[2020-07-15T03:16:39.676] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.273 ms
+[2020-07-15T03:16:39.679] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.269 ms
+[2020-07-15T03:19:22.638] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:19:22.642] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:19:23.054] [INFO] default - Database connection successful
+[2020-07-15T03:19:34.173] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:19:34.176] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:19:34.421] [INFO] default - Database connection successful
+[2020-07-15T03:19:41.665] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 1.861 ms
+[2020-07-15T03:19:41.671] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.193 ms
+[2020-07-15T03:19:41.676] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.284 ms
+[2020-07-15T03:19:41.680] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.214 ms
+[2020-07-15T03:19:41.685] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.334 ms
+[2020-07-15T03:19:41.689] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.228 ms
+[2020-07-15T03:19:41.692] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.191 ms
+[2020-07-15T03:19:41.696] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.183 ms
+[2020-07-15T03:19:41.703] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.197 ms
+[2020-07-15T03:19:41.706] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.198 ms
+[2020-07-15T03:19:41.709] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.178 ms
+[2020-07-15T03:19:41.713] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.197 ms
+[2020-07-15T03:19:41.720] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.203 ms
+[2020-07-15T03:19:41.724] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.200 ms
+[2020-07-15T03:19:41.727] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.181 ms
+[2020-07-15T03:19:41.731] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.207 ms
+[2020-07-15T03:19:41.735] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.200 ms
+[2020-07-15T03:19:41.740] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.190 ms
+[2020-07-15T03:19:41.744] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.163 ms
+[2020-07-15T03:19:41.747] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.192 ms
+[2020-07-15T03:23:43.104] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:23:43.107] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:23:44.680] [INFO] default - Database connection successful
+[2020-07-15T03:23:49.493] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 6.045 ms
+[2020-07-15T03:23:49.497] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.583 ms
+[2020-07-15T03:23:49.501] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.417 ms
+[2020-07-15T03:23:49.505] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.436 ms
+[2020-07-15T03:23:49.509] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.423 ms
+[2020-07-15T03:23:49.514] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.499 ms
+[2020-07-15T03:23:49.518] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.812 ms
+[2020-07-15T03:23:49.522] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.541 ms
+[2020-07-15T03:23:49.527] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.445 ms
+[2020-07-15T03:23:49.531] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.435 ms
+[2020-07-15T03:23:49.534] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.427 ms
+[2020-07-15T03:23:49.538] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.473 ms
+[2020-07-15T03:23:49.542] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.601 ms
+[2020-07-15T03:23:49.545] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.409 ms
+[2020-07-15T03:23:49.550] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.718 ms
+[2020-07-15T03:23:49.554] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.418 ms
+[2020-07-15T03:23:49.559] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.637 ms
+[2020-07-15T03:23:49.564] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.356 ms
+[2020-07-15T03:23:49.567] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.380 ms
+[2020-07-15T03:23:49.571] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.813 ms
+[2020-07-15T03:24:11.983] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:24:11.986] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:24:12.277] [INFO] default - Database connection successful
+[2020-07-15T03:24:37.328] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 7.442 ms
+[2020-07-15T03:24:37.331] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.506 ms
+[2020-07-15T03:24:37.335] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.490 ms
+[2020-07-15T03:24:37.340] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.516 ms
+[2020-07-15T03:24:37.345] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.678 ms
+[2020-07-15T03:24:37.348] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.487 ms
+[2020-07-15T03:24:37.352] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.468 ms
+[2020-07-15T03:24:37.356] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.653 ms
+[2020-07-15T03:24:37.362] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.926 ms
+[2020-07-15T03:24:37.366] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.461 ms
+[2020-07-15T03:24:37.369] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.501 ms
+[2020-07-15T03:24:37.375] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.782 ms
+[2020-07-15T03:24:37.379] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.482 ms
+[2020-07-15T03:24:37.383] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.433 ms
+[2020-07-15T03:24:37.386] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.476 ms
+[2020-07-15T03:24:37.392] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.458 ms
+[2020-07-15T03:24:37.396] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.430 ms
+[2020-07-15T03:24:37.400] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.416 ms
+[2020-07-15T03:24:37.404] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.494 ms
+[2020-07-15T03:24:37.408] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 0.455 ms
+[2020-07-15T03:26:46.794] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:26:46.797] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:26:47.247] [INFO] default - Database connection successful
+[2020-07-15T03:26:53.147] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 244.641 ms
+[2020-07-15T03:26:53.183] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.499 ms
+[2020-07-15T03:26:53.219] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.868 ms
+[2020-07-15T03:26:53.253] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.762 ms
+[2020-07-15T03:26:53.288] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.247 ms
+[2020-07-15T03:26:53.324] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.662 ms
+[2020-07-15T03:26:53.359] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.444 ms
+[2020-07-15T03:26:53.398] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 34.879 ms
+[2020-07-15T03:26:53.435] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 32.373 ms
+[2020-07-15T03:26:53.477] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.273 ms
+[2020-07-15T03:26:53.525] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 36.081 ms
+[2020-07-15T03:26:53.563] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 33.057 ms
+[2020-07-15T03:26:53.596] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.681 ms
+[2020-07-15T03:26:53.632] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.586 ms
+[2020-07-15T03:26:53.666] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.803 ms
+[2020-07-15T03:26:53.702] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.971 ms
+[2020-07-15T03:26:53.739] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.866 ms
+[2020-07-15T03:26:53.779] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.180 ms
+[2020-07-15T03:26:53.817] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.920 ms
+[2020-07-15T03:26:53.854] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 32.000 ms
+[2020-07-15T03:27:27.487] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 32.706 ms
+[2020-07-15T03:27:27.521] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.971 ms
+[2020-07-15T03:27:27.556] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.001 ms
+[2020-07-15T03:27:27.588] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.390 ms
+[2020-07-15T03:27:27.621] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.344 ms
+[2020-07-15T03:27:27.654] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.931 ms
+[2020-07-15T03:27:27.688] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.726 ms
+[2020-07-15T03:27:27.723] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.434 ms
+[2020-07-15T03:27:27.757] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.490 ms
+[2020-07-15T03:27:27.789] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.238 ms
+[2020-07-15T03:27:27.821] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.304 ms
+[2020-07-15T03:27:27.854] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.140 ms
+[2020-07-15T03:27:27.887] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 29.188 ms
+[2020-07-15T03:27:27.923] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 32.770 ms
+[2020-07-15T03:27:27.960] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.662 ms
+[2020-07-15T03:27:27.995] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.663 ms
+[2020-07-15T03:27:28.031] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.189 ms
+[2020-07-15T03:27:28.073] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 35.700 ms
+[2020-07-15T03:27:28.108] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 31.007 ms
+[2020-07-15T03:27:28.144] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 30.929 ms
+[2020-07-15T03:28:59.718] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:28:59.724] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:29:00.062] [INFO] default - Database connection successful
+[2020-07-15T03:29:08.682] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 296.565 ms
+[2020-07-15T03:29:08.724] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 37.932 ms
+[2020-07-15T03:29:08.765] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.070 ms
+[2020-07-15T03:29:08.805] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 37.094 ms
+[2020-07-15T03:29:08.848] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.863 ms
+[2020-07-15T03:29:08.892] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 39.998 ms
+[2020-07-15T03:29:08.934] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 39.237 ms
+[2020-07-15T03:29:08.977] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 39.277 ms
+[2020-07-15T03:29:09.024] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 42.331 ms
+[2020-07-15T03:29:09.065] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 37.410 ms
+[2020-07-15T03:29:09.108] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.997 ms
+[2020-07-15T03:29:09.151] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.718 ms
+[2020-07-15T03:29:09.203] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 47.705 ms
+[2020-07-15T03:29:09.246] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.814 ms
+[2020-07-15T03:29:09.291] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.100 ms
+[2020-07-15T03:29:09.334] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.401 ms
+[2020-07-15T03:29:09.378] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.998 ms
+[2020-07-15T03:29:09.421] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.765 ms
+[2020-07-15T03:29:09.466] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 38.358 ms
+[2020-07-15T03:29:09.510] [INFO] default - Method: GET URL: /www.google.in Status: 302 Resp Time: 39.619 ms
+[2020-07-15T03:30:07.824] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 45.594 ms
+[2020-07-15T03:30:07.898] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.971 ms
+[2020-07-15T03:30:07.940] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.873 ms
+[2020-07-15T03:30:07.985] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 40.384 ms
+[2020-07-15T03:30:08.027] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.029 ms
+[2020-07-15T03:30:08.071] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.582 ms
+[2020-07-15T03:30:08.115] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.410 ms
+[2020-07-15T03:30:08.157] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.435 ms
+[2020-07-15T03:30:08.200] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.669 ms
+[2020-07-15T03:30:08.244] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.109 ms
+[2020-07-15T03:30:08.289] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 40.697 ms
+[2020-07-15T03:30:08.333] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.786 ms
+[2020-07-15T03:30:08.376] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.869 ms
+[2020-07-15T03:30:08.420] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.378 ms
+[2020-07-15T03:30:08.464] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.587 ms
+[2020-07-15T03:30:08.507] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.496 ms
+[2020-07-15T03:30:08.551] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.868 ms
+[2020-07-15T03:30:08.596] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 40.558 ms
+[2020-07-15T03:30:08.639] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 39.095 ms
+[2020-07-15T03:30:08.683] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 38.909 ms
+[2020-07-15T03:30:08.730] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 41.102 ms
+[2020-07-15T03:30:45.488] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:30:45.492] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:30:46.687] [INFO] default - Database connection successful
+[2020-07-15T03:30:53.149] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 274.191 ms
+[2020-07-15T03:33:42.522] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:33:42.525] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:33:42.947] [INFO] default - Database connection successful
+[2020-07-15T03:33:51.638] [INFO] default - Method: GET URL: /as Status: 302 Resp Time: 250.185 ms
+[2020-07-15T03:35:18.671] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 52.153 ms
+[2020-07-15T03:35:18.709] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.934 ms
+[2020-07-15T03:35:18.743] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.994 ms
+[2020-07-15T03:35:18.780] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 33.794 ms
+[2020-07-15T03:35:18.842] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.290 ms
+[2020-07-15T03:35:18.875] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 31.109 ms
+[2020-07-15T03:35:18.908] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.521 ms
+[2020-07-15T03:35:18.940] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.011 ms
+[2020-07-15T03:35:18.972] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.333 ms
+[2020-07-15T03:35:19.004] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.896 ms
+[2020-07-15T03:35:19.036] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.786 ms
+[2020-07-15T03:35:19.068] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.693 ms
+[2020-07-15T03:35:19.103] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.812 ms
+[2020-07-15T03:35:19.135] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.797 ms
+[2020-07-15T03:35:19.169] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.270 ms
+[2020-07-15T03:35:19.204] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 31.757 ms
+[2020-07-15T03:35:19.237] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.861 ms
+[2020-07-15T03:35:19.270] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.034 ms
+[2020-07-15T03:35:19.303] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 30.567 ms
+[2020-07-15T03:35:19.335] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 29.258 ms
+[2020-07-15T03:35:19.371] [INFO] default - Method: GET URL: /undefined Status: 302 Resp Time: 31.898 ms
+[2020-07-15T03:35:29.010] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 30.387 ms
+[2020-07-15T03:35:58.408] [INFO] default - Method: GET URL: /IVzuH Status: 302 Resp Time: 32.688 ms
+[2020-07-15T03:38:18.790] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:38:18.793] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:38:19.206] [INFO] default - Database connection successful
+[2020-07-15T03:38:30.843] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 29.399 ms
+[2020-07-15T03:38:36.102] [INFO] default - Method: GET URL: /-EQXp Status: 302 Resp Time: 3.518 ms
+[2020-07-15T03:38:47.468] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 4.470 ms
+[2020-07-15T03:39:05.117] [INFO] default - Method: GET URL: /VYDRJ Status: 302 Resp Time: 1.169 ms
+[2020-07-15T03:39:17.624] [INFO] default - Method: GET URL: /VYDRJs Status: 302 Resp Time: 0.674 ms
+[2020-07-15T03:39:22.367] [INFO] default - Method: GET URL: /VYDRJs Status: 302 Resp Time: 0.748 ms
+[2020-07-15T03:39:23.155] [INFO] default - Method: GET URL: /VYDRJ Status: 302 Resp Time: 1.324 ms
+[2020-07-15T03:39:28.559] [INFO] default - Method: GET URL: /VYDRJds Status: 302 Resp Time: 0.581 ms
+[2020-07-15T03:39:44.930] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T03:39:44.934] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T03:39:45.334] [INFO] default - Database connection successful
+[2020-07-15T03:39:55.078] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 38.135 ms
+[2020-07-15T03:40:01.225] [INFO] default - Method: GET URL: /.gvG~ Status: 302 Resp Time: 4.827 ms
+[2020-07-15T03:40:09.144] [INFO] default - Method: GET URL: /.gvG~sd Status: 302 Resp Time: 0.783 ms
+[2020-07-15T03:41:43.405] [INFO] default - Method: GET URL: /jfbsdhfbsdf Status: 302 Resp Time: 2.109 ms
+[2020-07-15T03:41:53.203] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 5.435 ms
+[2020-07-15T03:42:05.812] [INFO] default - Method: GET URL: /ZDH_z Status: 302 Resp Time: 0.786 ms

@@ -5,6 +5,6 @@ const shortener: Router = Router();
 
 shortener.post('/create', shortenURL);
 
-shortener.get('/*', redirect);
+shortener.get('/:id', redirect);
 
 export default shortener;

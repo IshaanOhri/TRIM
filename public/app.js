@@ -24,7 +24,15 @@ function copyShortLink(){
     shortURL.select();
 	shortURL.setSelectionRange(0, 99999);
     document.execCommand('copy');
-    deselectAll();
+	deselectAll();
+	document.getElementById('urlSnackbar').innerHTML = 'URL coppied to clipboard';
+	urlSnackbar.className = 'show';
+	setTimeout(function () {
+		urlSnackbar.className = urlSnackbar.className.replace(
+			'show',
+			''
+		);
+	}, 3000);
 }
 
 function deselectAll(){
@@ -59,7 +67,7 @@ function displayShortLink(){
 
 async function shortenURL(){
     const mobile = window.mobileCheck();
-    
+
     let originalURL = longURL.value.trim();
     let customURL = custom.checked;
     let shortHandValue;
@@ -98,7 +106,7 @@ async function shortenURL(){
     let json;
 
     if(originalURL != '' && !customURL){
-        const req = await fetch('https://trim.sytes.net/create', {
+        const req = await fetch('http://localhost:3000/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
@@ -110,7 +118,7 @@ async function shortenURL(){
 				custom: false
 			})
         });
-        
+
         json = await req.json();
 
         if(json.success == true){
@@ -131,7 +139,7 @@ async function shortenURL(){
             }
         }
     }else if(longURL != '' && customURL && shortHandValue != ''){
-        const req = await fetch('https://trim.sytes.net/create', {
+        const req = await fetch('http://localhost:3000/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
@@ -143,7 +151,7 @@ async function shortenURL(){
 				custom: true
 			})
         });
-        
+
         json = await req.json();
 
         if(json.success == true){
