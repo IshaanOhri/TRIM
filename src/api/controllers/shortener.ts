@@ -82,7 +82,7 @@ const shortenURL = async (req: Request, res: Response) => {
 };
 
 const redirect = async (req: Request, res: Response) => {
-	const site = await getAsync(req.url.slice(1));
+	const site = await getAsync(req.params.id);
 	if (site !== null) {
 		res.redirect(site);
 	} else {

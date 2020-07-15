@@ -76,6 +76,7 @@ async function shortenURL(){
         }else{
             urlSnackbar.className = 'show';
 			setTimeout(function () {
+                document.getElementById('urlSnackbar').innerHTML = 'Please enter proper URL';
 				urlSnackbar.className = urlSnackbar.className.replace(
 					'show',
 					''

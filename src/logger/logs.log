@@ -3662,3 +3662,90 @@
 [2020-07-15T03:41:43.405] [INFO] default - Method: GET URL: /jfbsdhfbsdf Status: 302 Resp Time: 2.109 ms
 [2020-07-15T03:41:53.203] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 5.435 ms
 [2020-07-15T03:42:05.812] [INFO] default - Method: GET URL: /ZDH_z Status: 302 Resp Time: 0.786 ms
+[2020-07-15T10:21:32.928] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:21:32.934] [INFO] default - Redis connection failure
+[2020-07-15T10:21:33.140] [INFO] default - Redis connection failure
+[2020-07-15T10:21:33.405] [INFO] default - Database connection successful
+[2020-07-15T10:21:33.483] [INFO] default - Redis connection failure
+[2020-07-15T10:21:34.067] [INFO] default - Redis connection failure
+[2020-07-15T10:21:35.053] [INFO] default - Redis connection failure
+[2020-07-15T10:21:36.730] [INFO] default - Redis connection failure
+[2020-07-15T10:21:39.589] [INFO] default - Redis connection failure
+[2020-07-15T10:21:44.424] [INFO] default - Redis connection failure
+[2020-07-15T10:21:44.618] [INFO] default - Method: GET URL: /healt Status: undefined Resp Time: undefined ms
+[2020-07-15T10:21:45.421] [INFO] default - Method: GET URL: /health Status: 200 Resp Time: 6.338 ms
+[2020-07-15T10:21:52.641] [INFO] default - Redis connection failure
+[2020-07-15T10:22:06.603] [INFO] default - Redis connection failure
+[2020-07-15T10:35:57.588] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:35:57.593] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:35:58.085] [INFO] default - Database connection successful
+[2020-07-15T10:36:10.817] [INFO] default - Method: GET URL: /health Status: 304 Resp Time: 4.130 ms
+[2020-07-15T10:36:11.897] [INFO] default - Method: GET URL: /health Status: 304 Resp Time: 1.369 ms
+[2020-07-15T10:47:37.979] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:47:37.986] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:47:38.422] [INFO] default - Database connection successful
+[2020-07-15T10:48:16.729] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 32.026 ms
+[2020-07-15T10:48:41.452] [INFO] default - Method: GET URL: /qw Status: undefined Resp Time: undefined ms
+[2020-07-15T10:48:54.240] [INFO] default - Method: GET URL: /qw Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:20.944] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:20.945] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:52.570] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:52.571] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:59.599] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:49:59.600] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:00.210] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:00.211] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:00.739] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:00.740] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:01.948] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:01.949] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:03.021] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:03.022] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:23.913] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:50:23.917] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:50:24.353] [INFO] default - Database connection successful
+[2020-07-15T10:50:32.069] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:50:32.070] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:52:22.058] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:52:22.061] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:52:22.491] [INFO] default - Database connection successful
+[2020-07-15T10:52:23.965] [INFO] default - Method: GET URL: /lory.min.js.map Status: 302 Resp Time: 16.867 ms
+[2020-07-15T10:52:24.067] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 0.578 ms
+[2020-07-15T10:53:04.461] [INFO] default - Method: GET URL: /lory.min.js.map Status: 302 Resp Time: 2.264 ms
+[2020-07-15T10:53:04.470] [INFO] default - Method: GET URL: /typed.min.js.map Status: 302 Resp Time: 1.103 ms
+[2020-07-15T10:53:24.449] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 21.760 ms
+[2020-07-15T10:53:31.572] [INFO] default - Method: GET URL: /v3jjx Status: 302 Resp Time: 1.988 ms
+[2020-07-15T10:56:20.978] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:56:20.981] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:56:21.589] [INFO] default - Database connection successful
+[2020-07-15T10:56:32.558] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 12.923 ms
+[2020-07-15T10:56:43.912] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 7.082 ms
+[2020-07-15T10:58:27.139] [INFO] default - Method: GET URL: /typed.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:58:27.141] [INFO] default - Method: GET URL: /lory.min.js.map Status: undefined Resp Time: undefined ms
+[2020-07-15T10:58:57.528] [INFO] default - Method: GET URL: /.tH7q Status: undefined Resp Time: undefined ms
+[2020-07-15T10:59:20.838] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T10:59:20.841] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T10:59:21.318] [INFO] default - Database connection successful
+[2020-07-15T11:00:28.400] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T11:00:28.404] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T11:00:28.714] [INFO] default - Database connection successful
+[2020-07-15T11:02:04.981] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T11:02:04.984] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T11:02:05.336] [INFO] default - Database connection successful
+[2020-07-15T11:02:17.859] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 27.803 ms
+[2020-07-15T11:02:40.937] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T11:02:40.940] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T11:02:41.237] [INFO] default - Database connection successful
+[2020-07-15T11:02:45.345] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 20.176 ms
+[2020-07-15T11:05:48.117] [INFO] default - Server running on http://localhost:3000
+[2020-07-15T11:05:48.121] [INFO] default - Redis running at http://localhost:6379
+[2020-07-15T11:05:48.579] [INFO] default - Database connection successful
+[2020-07-15T11:09:13.041] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 21.920 ms
+[2020-07-15T11:09:15.223] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.510 ms
+[2020-07-15T11:09:20.046] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 7.311 ms
+[2020-07-15T11:09:29.669] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 1.110 ms
+[2020-07-15T11:09:52.618] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.809 ms
+[2020-07-15T11:10:05.639] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 1.543 ms
+[2020-07-15T11:10:24.812] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.732 ms
+[2020-07-15T11:10:34.142] [INFO] default - Method: POST URL: /create Status: 201 Resp Time: 1.706 ms
+[2020-07-15T11:11:27.227] [INFO] default - Method: POST URL: /create Status: 200 Resp Time: 0.678 ms
