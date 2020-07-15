@@ -7,4 +7,4 @@ The service uses a Node js application server and incorporates server-side Redis
 
 The frontend uses basic HTML, CSS
 
-### Start trimming your URLs today at [TRIM](https://trimz.tk)
+### Start trimming your URLs today with [TRIM](https://trimz.tk)
