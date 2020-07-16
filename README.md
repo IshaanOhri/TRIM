@@ -7,8 +7,8 @@
 The service uses a Node js application server and incorporates server-side Redis caching for faster redirects. It uses Nginx as a web server for load balancing, server and client caching, SSL encryptions, and as a reverse proxy server.
 </p>
 
-<div align="center>
-	<a href="https://trimz.tk">Start trimming your URLs today with TRIM</a>
+<div align="center">
+  <a href="https://trimz.tk">Start trimming your URLs today with TRIM</a>
 </div>
 
 <br>
