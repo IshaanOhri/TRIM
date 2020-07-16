@@ -8,7 +8,7 @@ The service uses a Node js application server and incorporates server-side Redis
 </p>
 
 <div align="center>
-	Start trimming your URLs today with <a href="https://trimz.tk">TRIM</a>
+	<a href="https://trimz.tk">Start trimming your URLs today with TRIM</a>
 </div>
 
 <br>
