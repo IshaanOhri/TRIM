@@ -14,6 +14,11 @@ The service uses a Node js application server and incorporates server-side Redis
 <br>
 <br>
 
+<p  align="center"><img height="500" src = "https://github.com/IshaanOhri/Trim/blob/master/TRIM.gif"></p>
+
+<br>
+<br>
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -29,7 +34,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Tech stacks used
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/typescript.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/ts.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nginx.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=20>
