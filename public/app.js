@@ -68,7 +68,7 @@ async function shortenURL(){
 
     let originalURL = longURL.value.trim();
     let customURL = custom.checked;
-    let shortHandValue;
+	let shortHandValue;
 
     if(originalURL == ''){
         if(mobile){
@@ -121,7 +121,8 @@ async function shortenURL(){
         json = await req.json();
 
         if(json.success == true){
-            shortURL.value = json.shortHand;
+			shortURL.value = json.shortHand;
+			shortURL.style.width = ((shortURL.value.length + 1) * 10) + 'px';
             displayShortLink();
         }else{
             if(mobile){
@@ -155,6 +156,7 @@ async function shortenURL(){
 
         if(json.success == true){
             shortURL.value = json.shortHand;
+			shortURL.style.width = ((shortURL.value.length + 1) * 10) + 'px';
             displayShortLink();
         }else{
             if(mobile){
