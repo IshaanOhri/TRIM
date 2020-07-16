@@ -27,11 +27,11 @@ redisClient.on('error', () => {
 	logger.info(`Redis connection failure`);
 });
 
-app.use(
-	express.static(path.join(__dirname, '../public'), {
-		index: 'index.html'
-	})
-);
+// app.use(
+// 	express.static(path.join(__dirname, '../public'), {
+// 		index: 'index.html'
+// 	})
+// );
 
 app.use(
 	morgan((tokens, req, res) => {
