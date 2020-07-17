@@ -20,9 +20,9 @@ function hideCustomDomain(){
 }
 function copyShortLink(){
     shortURL.select();
-	shortURL.setSelectionRange(0, 99999);
-    document.execCommand('copy');
-	deselectAll();
+	// shortURL.setSelectionRange(0, 99999);
+    document.execCommand('Copy');
+	// deselectAll();
 	document.getElementById('urlSnackbar').innerHTML = 'URL coppied to clipboard';
 	urlSnackbar.className = 'show';
 	setTimeout(function () {
