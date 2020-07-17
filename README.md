@@ -14,7 +14,7 @@ The service uses a Node js application server and incorporates server-side Redis
 <br>
 <br>
 
-<p  align="center"><img height="500" src = ""></p>
+<p  align="center"><img height="500" src = "https://github.com/IshaanOhri/TRIM/blob/master/TRIM.gif"></p>
 
 <br>
 <br>
