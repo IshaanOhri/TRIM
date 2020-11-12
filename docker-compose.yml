@@ -1,0 +1,21 @@
+version: '3'
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - 3000:3000
+    volumes:
+      - /usr/app/node_modules
+      - .:/usr/app
+    environment:
+      - PORT=3000
+      - DOMAIN=trimz.tk
+      - REDIS_PORT=6379
+      - REDIS_HOST=redis
+      - DATABASE_URL=mongodb+srv://Ishaan:hello123@urls.7gw6g.gcp.mongodb.net/URL-Shortener?retryWrites=true&w=majority
+    depends_on:
+      - redis
+  redis:
+    image: redis
