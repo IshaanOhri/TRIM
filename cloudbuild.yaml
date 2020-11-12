@@ -38,4 +38,4 @@ options:
 substitutions:
   _SERVICE_NAME: trim
   _DEPLOY_REGION: asia-east1
-  _GCR_HOSTNAME: gcr.io
+  _GCR_HOSTNAME: asia.gcr.io
