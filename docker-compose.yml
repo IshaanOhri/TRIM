@@ -14,7 +14,7 @@ services:
       - DOMAIN=trimz.tk
       - REDIS_PORT=6379
       - REDIS_HOST=redis
-      - DATABASE_URL=mongodb+srv://Ishaan:hello123@urls.7gw6g.gcp.mongodb.net/URL-Shortener?retryWrites=true&w=majority
+      - DATABASE_URL=
     depends_on:
       - redis
   redis:

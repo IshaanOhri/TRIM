@@ -69,6 +69,7 @@ gulp.task('pretty-data', () => {
 gulp.task('copy', () => {
     return gulp
         .src([
+            'src/.*',
             'src/**/*',
             `!src/**/*.{${configuredExtensions.join(',')}}`,
             '!src/**/node_modules/',
