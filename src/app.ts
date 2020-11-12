@@ -28,12 +28,6 @@ redisClient.on('error', () => {
 });
 
 app.use(
-	express.static(path.join(__dirname, '../public'), {
-		index: 'index.html'
-	})
-);
-
-app.use(
 	morgan((tokens, req, res) => {
 		logger.info(
 			`Method: ${tokens.method(req, res)} URL: ${tokens.url(

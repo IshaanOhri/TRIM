@@ -33,7 +33,14 @@ Contributions are what make the open source community such an amazing place to l
 
 <br>
 
+## License
+
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/TRIM/blob/master/LICENSE) for more information.
+
+<br>
+
 ## Tech stacks used
+
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/ts.png" height=40 hspace=20>
