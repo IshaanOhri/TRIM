@@ -3818,3 +3818,19 @@
 [2020-11-12T22:00:34.446] [INFO] default - Server running on http://localhost:3000
 [2020-11-12T22:00:34.454] [INFO] default - Redis running at http://localhost:6379
 [2020-11-12T22:00:34.758] [INFO] default - Database connection successful
+[2020-11-13T06:32:49.297] [INFO] default - Server running on http://localhost:3000
+[2020-11-13T06:32:49.308] [INFO] default - Database connection failed
+MongoParseError: Invalid connection string
+[2020-11-13T06:32:49.316] [INFO] default - Redis running at http://localhost:6379
+[2020-11-13T06:33:55.831] [INFO] default - Method: GET URL: /pusher.html Status: 302 Resp Time: 19.427 ms
+[2020-11-13T06:33:59.617] [INFO] default - Method: GET URL: /public/index.html Status: 404 Resp Time: 3.315 ms
+[2020-11-13T06:52:04.782] [INFO] default - Server running on http://localhost:3000
+[2020-11-13T06:52:04.784] [INFO] default - Database connection failed
+MongoParseError: Invalid connection string
+[2020-11-13T06:52:04.787] [INFO] default - Redis running at http://localhost:6379
+[2020-11-13T06:52:11.242] [INFO] default - Method: GET URL: / Status: 404 Resp Time: 15.461 ms
+[2020-11-13T06:52:13.331] [INFO] default - Method: GET URL: / Status: 404 Resp Time: 0.714 ms
+[2020-11-13T06:52:40.596] [INFO] default - Server running on http://localhost:3000
+[2020-11-13T06:52:40.598] [INFO] default - Database connection failed
+MongoParseError: Invalid connection string
+[2020-11-13T06:52:40.601] [INFO] default - Redis running at http://localhost:6379

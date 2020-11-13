@@ -30,11 +30,11 @@ redisClient.on('error', () => {
     logger.info(`Redis connection failure`);
 });
 
-app.use(
-    express.static(path.join(__dirname, '../public'), {
-        index: 'index.html'
-    })
-);
+if (process.env.NODE_ENV === 'development') {
+    app.use(express.static(path.join(__dirname, '../public')));
+} else {
+    app.use(express.static(path.join(__dirname, './public')));
+}
 
 app.use(
     morgan((tokens, req, res) => {
