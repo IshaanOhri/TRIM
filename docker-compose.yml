@@ -15,8 +15,15 @@ services:
       - DOMAIN=trimz.tk
       - REDIS_PORT=6379
       - REDIS_HOST=redis
-      - DATABASE_URL=
+      - DATABASE_URL=mongodb://mongodb:27017/URL-Shortener
     depends_on:
       - redis
+      - mongodb
   redis:
     image: redis
+    restart: always
+  mongodb:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
