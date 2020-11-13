@@ -105,7 +105,7 @@ async function shortenURL(){
     let json;
 
     if(originalURL != '' && !customURL){
-        const req = await fetch('https://trimz.tk/create', {
+        const req = await fetch('http://localhost:3000/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
@@ -139,7 +139,7 @@ async function shortenURL(){
             }
         }
     }else if(longURL != '' && customURL && shortHandValue != ''){
-        const req = await fetch('https://trimz.tk/create', {
+        const req = await fetch('http://localhost:3000/create', {
 			method: 'POST',
 			mode: 'cors',
 			headers: {
