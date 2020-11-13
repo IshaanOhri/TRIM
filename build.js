@@ -21,8 +21,6 @@ if (pkg.devDependencies) delete pkg.devDependencies;
 pkg.main = `${pkg.main.replace('.ts', '.js')}`;
 fs.writeFileSync('./bin/package.json', JSON.stringify(pkg, null, '\t'));
 
-childProcess.execSync('cp -r ./public ./bin/public');
-
 console.log('Installing production dependencies...');
 childProcess.execSync('npm install --only=production', {
     cwd: './bin',
