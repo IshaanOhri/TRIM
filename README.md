@@ -1,6 +1,15 @@
 <code>
-  <h1 align="center">TRIM - the URL shortener</h1>
+  <h1 align="center">TRIM</h1>
+  <h3 align="center">The URL Shortener</h3>
 </code>
+
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/Trim?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/Trim" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/Trim?logo=git">
+</div>
+
+<br>
 
 <p align="center">
   Now shorten your URLs on the go with TRIM. TRIM is a fast and secure way to shorten your URLs with the ability to have custom URLs. <br>
@@ -18,9 +27,6 @@ The service uses a Node js application server and incorporates server-side Redis
 
 <p  align="center"><img width="1000" src = "https://github.com/IshaanOhri/TRIM/blob/master/TRIM.gif"></p>
 
-<br>
-<br>
-
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
@@ -31,14 +37,15 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<br>
-
 ## License
 The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/TRIM/blob/master/LICENSE) for more information.
 
-<br>
+## Author
+- [Ishaan Ohri](https://github.com/IshaanOhri)
 
-## Tech stacks used
+## Tech Stacks / Tools used
+
+<p>
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/ts.png" height=40 hspace=20>
@@ -46,9 +53,8 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=20>
 </p>
+</p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
@@ -70,11 +76,5 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
   <a href="https://github.com/IshaanOhri">
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//ishaan.gif" width="300">
   </a>
 </p>
