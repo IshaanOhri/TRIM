@@ -4,6 +4,7 @@ body{
 	font-family: 'Lato', sans-serif;
 	color: #4ba74b;
 	text-align: center;
+	border: 2px solid #4ba74b;
 }
 .center{
 	margin-left: auto;
@@ -69,10 +70,6 @@ button:hover{
 #short-url,
 #copy-icon{
 	visibility: hidden;
-}
-hr{
-	width: 60%;
-	color: #4ba74b;
 }
 /* [class*="col"]{
 	background-color: aqua;
