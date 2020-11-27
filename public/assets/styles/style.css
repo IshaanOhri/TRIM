@@ -40,7 +40,7 @@ button:hover{
 	color: white;
 	background-color: #4ba74b;
 }
-input{
+#long-url{
 	width: 80%;
 	border: 2px solid white;
 	border-radius: 5px;
@@ -52,7 +52,6 @@ input{
 	font-size: 1.2em;
 	text-align: center;
 	color: white;
-	text-transform: lowercase;
 }
 #short-url{
 	/* padding: 10px; */
@@ -90,3 +89,27 @@ hr{
 	border: 1px solid violet;
 	border-radius: 5px;
 } */
+
+#custom-checkbox{
+	zoom:1.0;
+}
+#domain-name{
+	color: white;
+	font-size: 1em;
+	padding: 5px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+#short-hand{
+	width: auto;
+	border: 2px solid white;
+	border-radius: 5px;
+	background-color: transparent;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1em;
+	text-align: center;
+	color: white;
+}

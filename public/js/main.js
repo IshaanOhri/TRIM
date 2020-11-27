@@ -1,4 +1,8 @@
 $(document).ready(function () {
+
+	$('#domain-name').hide();
+	$('#short-hand').hide();
+
     $("#shorten-btn").click(function () {
 		if($('#custom-checkbox').is(':checked')){
 			if(!$('#long-url').val()){
@@ -19,11 +23,11 @@ $(document).ready(function () {
 
 	$('#custom-checkbox').change(function() {
         if(this.checked) {
-			$('#trim-domain').show();
+			$('#domain-name').show();
 			$('#short-hand').show();
         }else{
-			$('#trim-domain').hide();
-	$('#short-hand').hide();
+			$('#domain-name').hide();
+			$('#short-hand').hide();
 		}
     });
   });
