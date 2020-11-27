@@ -1,101 +1,92 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
 body{
-	font-family: 'Roboto', sans-serif;
-	background-color: rgb(31,31,31);
+	background-color: rgb(35,35,35);
+	font-family: 'Lato', sans-serif;
+	color: #4ba74b;
+	text-align: center;
 }
-#container{
-	width: 50%;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 100px;
-	padding-right: 100px;
+.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+.container{
 	margin: 0;
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
-h1{
-	font-size: 120px;
-	line-height: 0.5;
-	color: rgb(16, 229, 152);
+.heading h1{
+	font-size: 5em;
 }
-h2{
-	font-size: 80px;
-	line-height: 0.5;
-	color: rgb(16, 229, 152);
+.heading h2{
+	font-size: 2em;
+	font-style: italic;
 }
-#why{
-	font-size: 60px;
-	line-height: 0.5;
+.white{
 	color: white;
 }
-p{
-	font-size: 40px;
-	line-height: 0.5;
-	color: white;
-}
-#copy{
-	font-size: 30px;
-	color: white;
-}
-#short-url{
-	font-size: 25px;
-	line-height: 0.5;
-	color: rgb(16, 229, 152);
-	display: inline;
-	padding: 10px;
-}
-#long-url{
-	width: 80%;
-	border: 2px white solid;
+button{
+	border: 2px solid #4ba74b;
 	border-radius: 5px;
-	color: white;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	font-size: 30px;
-	text-align: center;
-	background-color: rgb(31,31,31);
-}
-#submit{
-	width: 40%;
-	border: 2px rgb(16, 229, 152) solid;
-	border-radius: 5px;
-	background-color: rgb(31,31,31);
-	color: rgb(16, 229, 152);
-	padding-top: 15px;
-	padding-bottom: 15px;
-	font-size: 30px;
-	text-align: center;
-}
-#custom-checkbox{
-	zoom:1.5;
-}
-label{
-	font-size: 30px;
-	color: white;
-	padding-left: 10px;
-	display: inline;
-}
-#short-hand{
-	width: 20%;
-	border: 2px white solid;
-	border-radius: 5px;
-	color: white;
-	padding-left: 20px;
-	padding-right: 20px;
+	color: #4ba74b;
+	background-color: transparent;
+	width: 50%;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	font-size: 25px;
-	text-align: center;
-	background-color: rgb(31,31,31);
+	font-size: 1.2em;
 }
-#trim-domain{
-	font-size: 25px;
-	line-height: 0.5;
+button:hover{
 	color: white;
-	display: inline;
-	padding-left: 100px;
+	background-color: #4ba74b;
 }
+input{
+	width: 80%;
+	border: 2px solid white;
+	border-radius: 5px;
+	background-color: transparent;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1.2em;
+	text-align: center;
+	color: white;
+	text-transform: lowercase;
+}
+#short-url{
+	/* padding: 10px; */
+	margin-top: auto;
+	margin-bottom: auto;
+	max-width: 200px;
+	overflow: scroll;
+}
+#copy-icon{
+	padding: 10px;
+	width: 40px;
+}
+#copy-msg,
+#short-url,
+#copy-icon{
+	visibility: hidden;
+}
+hr{
+	width: 80%;
+	color: #4ba74b;
+}
+/* [class*="col"]{
+	background-color: aqua;
+	padding: 10px;
+	text-align: center;
+	border: 1px solid white;
+}
+.submit-btn{
+	background-color: violet;
+	color: white;
+}
+.submit-btn:hover{
+	background-color: white;
+	color: violet;
+	border: 1px solid violet;
+	border-radius: 5px;
+} */

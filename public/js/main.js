@@ -1,8 +1,5 @@
 $(document).ready(function () {
-	$('#trim-domain').hide();
-	$('#short-hand').hide();
-
-    $("#submit").click(function () {
+    $("#shorten-btn").click(function () {
 		if($('#custom-checkbox').is(':checked')){
 			if(!$('#long-url').val()){
 				alert('Long URL 1');
