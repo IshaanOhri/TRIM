@@ -15,9 +15,9 @@ $(document).ready(function () {
 
 	$('#shorten-btn').click(function () {
 		if ($('#custom-checkbox').is(':checked')) {
-			if (!$('#long-url').val()) {
+			if (!$('#long-url').val().trim()) {
 				showToast('Please enter proper URL');
-			} else if (!$('#short-hand').val()) {
+			} else if (!$('#short-hand').val().trim()) {
 				showToast('Please enter proper custom URL')
 			} else {
 				const longUrl = $('#long-url').val().trim();
@@ -41,7 +41,7 @@ $(document).ready(function () {
 					}
 				});
 			}
-		} else if (!$('#long-url').val()) {
+		} else if (!$('#long-url').val().trim()) {
 			showToast('Please enter proper URL');
 		} else {
 			const longUrl = $('#long-url').val().trim();
