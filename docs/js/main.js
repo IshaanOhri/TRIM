@@ -35,11 +35,10 @@ $(document).ready(function () {
 
 				  $.ajax(settings).done(function (response) {
 					console.log(response);
+					$('#copy-msg').show();
+					$('#short-url').show();
+					$('#copy-icon').show();
 				  });
-
-				$('#copy-msg').show();
-				$('#short-url').show();
-				$('#copy-icon').show();
 			}
 		} else if (!$('#long-url').val()) {
 			showToast('Please enter proper URL');
@@ -58,11 +57,10 @@ $(document).ready(function () {
 
 			  $.ajax(settings).done(function (response) {
 				console.log(response);
+				$('#copy-msg').show();
+				$('#short-url').show();
+				$('#copy-icon').show();
 			  });
-
-			$('#copy-msg').show();
-			$('#short-url').show();
-			$('#copy-icon').show();
 		}
 	});
 
