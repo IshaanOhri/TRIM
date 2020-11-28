@@ -2,9 +2,9 @@
 body{
 	background-color: rgb(35,35,35);
 	font-family: 'Lato', sans-serif;
-	color: #4ba74b;
+	color: #15b04b;
 	text-align: center;
-	/* border: 2px solid #4ba74b; */
+	/* border: 2px solid #15b04b; */
 }
 .center{
 	margin-left: auto;
@@ -28,9 +28,9 @@ body{
 }
 button{
 	width: 40%;
-	border: 2px solid #4ba74b;
+	border: 2px solid #15b04b;
 	border-radius: 5px;
-	color: #4ba74b;
+	color: #15b04b;
 	background-color: transparent;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -38,7 +38,7 @@ button{
 }
 button:hover{
 	color: white;
-	background-color: #4ba74b;
+	background-color: #15b04b;
 }
 #long-url{
 	width: 60%;
@@ -68,7 +68,7 @@ button:hover{
 }
 .hr{
 	width: 40%;
-	border: 2px solid #4ba74b;
+	border: 2px solid #15b04b;
 }
 #custom-checkbox{
 	zoom:1.0;
@@ -140,4 +140,11 @@ button:hover{
 @keyframes fadeout {
   from {bottom: 30px; opacity: 1;}
   to {bottom: 0; opacity: 0;}
+}
+#banner{
+	background-color: #15b04b;
+	color: white;
+	font-weight: 300;
+	font-size: 1.2em;
+	padding: 10px;
 }
