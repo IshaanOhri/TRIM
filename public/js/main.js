@@ -1,20 +1,27 @@
 $(document).ready(function () {
 	$('#domain-name').hide();
 	$('#short-hand').hide();
+	$('#copy-msg').hide();
+	$('#short-url').hide();
+	$('#copy-icon').hide();
 
 	$('#shorten-btn').click(function () {
 		if ($('#custom-checkbox').is(':checked')) {
 			if (!$('#long-url').val()) {
-				alert('Long URL not there 1');
+				myFunction('Please enter proper URL');
 			} else if (!$('#short-hand').val()) {
-				alert('Short hand not there 1');
+				myFunction('Please enter proper custom URL')
 			} else {
-				alert('Good 1');
+				$('#copy-msg').show();
+				$('#short-url').show();
+				$('#copy-icon').show();
 			}
 		} else if (!$('#long-url').val()) {
-			alert('Long URL not there 2');
+			myFunction('Please enter proper URL');
 		} else {
-			alert('Good 2');
+			$('#copy-msg').show();
+			$('#short-url').show();
+			$('#copy-icon').show();
 		}
 	});
 
@@ -28,3 +35,16 @@ $(document).ready(function () {
 		}
 	});
 });
+
+function myFunction(message) {
+	// Get the snackbar DIV
+	var x = document.getElementById("snackbar");
+
+	x.innerHTML=message;
+
+	// Add the "show" class to DIV
+	x.className = "show";
+
+	// After 3 seconds, remove the show class from DIV
+	setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+  }
