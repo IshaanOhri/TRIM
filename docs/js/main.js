@@ -34,7 +34,7 @@ $(document).ready(function () {
 				  };
 
 				  $.ajax(settings).done(function (response) {
-					console.log(response);
+					alert(response);
 					$('#copy-msg').show();
 					$('#short-url').show();
 					$('#copy-icon').show();
@@ -56,7 +56,7 @@ $(document).ready(function () {
 			  };
 
 			  $.ajax(settings).done(function (response) {
-				console.log(response);
+				alert(response);
 				$('#copy-msg').show();
 				$('#short-url').show();
 				$('#copy-icon').show();
