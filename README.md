@@ -35,7 +35,7 @@ git clone https://github.com/IshaanOhri/TRIM
 
 #### Install packages
 ```
-npm install
+npm ci
 ```
 
 #### Development environment:
