@@ -36,9 +36,9 @@ $(document).ready(function () {
 				  $.ajax(settings).done(function (response) {
 					alert(response);
 					console.log('response');
-					$('#copy-msg').show();
-					$('#short-url').show();
-					$('#copy-icon').show();
+					// $('#copy-msg').show();
+					// $('#short-url').show();
+					// $('#copy-icon').show();
 				  });
 			}
 		} else if (!$('#long-url').val()) {
@@ -59,9 +59,9 @@ $(document).ready(function () {
 			  $.ajax(settings).done(function (response) {
 				alert(response);
 				console.log('response');
-				$('#copy-msg').show();
-				$('#short-url').show();
-				$('#copy-icon').show();
+				// $('#copy-msg').show();
+				// $('#short-url').show();
+				// $('#copy-icon').show();
 			  });
 		}
 	});
