@@ -35,6 +35,7 @@ $(document).ready(function () {
 
 				  $.ajax(settings).done(function (response) {
 					alert(response);
+					console.log('response');
 					$('#copy-msg').show();
 					$('#short-url').show();
 					$('#copy-icon').show();
@@ -57,6 +58,7 @@ $(document).ready(function () {
 
 			  $.ajax(settings).done(function (response) {
 				alert(response);
+				console.log('response');
 				$('#copy-msg').show();
 				$('#short-url').show();
 				$('#copy-icon').show();
