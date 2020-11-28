@@ -20,13 +20,10 @@ $(document).ready(function () {
 			} else if (!$('#short-hand').val()) {
 				showToast('Please enter proper custom URL')
 			} else {
-				const longUrl = $('#long-url').text();
-				const shortHand = $('#short-hand').text();
+				const longUrl = $('#long-url').val();
+				const shortHand = $('#short-hand').val();
 
-				console.log(longUrl);
-				console.log(shortHand);
-
-				var settings = {
+				  $.ajax({
 					"url": "https://trims.tk/create",
 					"method": "POST",
 					"timeout": 0,
@@ -34,24 +31,22 @@ $(document).ready(function () {
 					  "Content-Type": "application/json"
 					},
 					"data": JSON.stringify({"url" : longUrl, "shortHand" : shortHand, "custom" : true}),
-				  };
-
-				  $.ajax(settings).done(function (response) {
-					alert(response);
-					console.log('response');
-					// $('#copy-msg').show();
-					// $('#short-url').show();
-					// $('#copy-icon').show();
-				  });
+					success: function () {
+						$('#copy-msg').show();
+						$('#short-url').show();
+						$('#copy-icon').show();
+					},
+					error: function() {
+						showToast('Error occurred');
+					}
+				});
 			}
 		} else if (!$('#long-url').val()) {
 			showToast('Please enter proper URL');
 		} else {
-			const longUrl = $('#long-url').text();
-
-			console.log(longUrl);
-
-			var settings = {
+			const longUrl = $('#long-url').val();
+			
+			  $.ajax({
 				"url": "https://trims.tk/create",
 				"method": "POST",
 				"timeout": 0,
@@ -59,14 +54,14 @@ $(document).ready(function () {
 				  "Content-Type": "application/json"
 				},
 				"data": JSON.stringify({"url" : longUrl, "shortHand" : "", "custom" : false}),
-			  };
-
-			  $.ajax(settings).done(function (response) {
-				alert(response);
-				console.log('response');
-				// $('#copy-msg').show();
-				// $('#short-url').show();
-				// $('#copy-icon').show();
+				success: function () {
+					$('#copy-msg').show();
+					$('#short-url').show();
+					$('#copy-icon').show();
+				},
+				error: function() {
+					showToast('Error occurred');
+				}
 			  });
 		}
 	});
