@@ -5,6 +5,10 @@ $(document).ready(function () {
 	$('#short-url').hide();
 	$('#copy-icon').hide();
 
+	$('#cross-btn').click(function () {
+		$('#banner').hide();
+	})
+
 	$('#copy-icon').click(function () {
 		const shortUrl = $('#short-url').text();
 		console.log(shortUrl);
