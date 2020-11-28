@@ -26,6 +26,29 @@ The service uses a Node js application server and incorporates server-side Redis
 
 <p  align="center"><img width="1000" src = "https://github.com/IshaanOhri/TRIM/blob/master/TRIM.gif"></p>
 
+## Steps to start server
+
+#### Clone repository
+```
+git clone https://github.com/IshaanOhri/TRIM
+```
+
+#### Install packages
+```
+npm install
+```
+
+#### Development environment:
+
+- Create `dev.env` file and add environment variables according to `example.env`:
+```
+touch ./src/config/dev.env
+```
+- Start server:
+```
+npm run dev
+```
+
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
