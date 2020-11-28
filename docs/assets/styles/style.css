@@ -69,6 +69,7 @@ button:hover{
 .hr{
 	width: 40%;
 	border: 2px solid #15b04b;
+	background-color: #15b04b;
 }
 #custom-checkbox{
 	zoom:1.0;

@@ -8,7 +8,7 @@
 var app = document.getElementById('typewriter');
 
 var typewriter = new Typewriter(app, {
-    strings : ['Full Stack Developer','DevOps Enthusiast', 'Android App Developer', 'Tech Blogger'],
+    strings : ['Secure','Reliable', 'Easy to use', 'Free'],
     autoStart: true,
     loop: true
 });
