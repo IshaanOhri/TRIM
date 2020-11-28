@@ -23,6 +23,9 @@ $(document).ready(function () {
 				const longUrl = $('#long-url').text();
 				const shortHand = $('#short-hand').text();
 
+				console.log(longUrl);
+				console.log(shortHand);
+
 				var settings = {
 					"url": "https://trims.tk/create",
 					"method": "POST",
@@ -45,6 +48,8 @@ $(document).ready(function () {
 			showToast('Please enter proper URL');
 		} else {
 			const longUrl = $('#long-url').text();
+
+			console.log(longUrl);
 
 			var settings = {
 				"url": "https://trims.tk/create",
