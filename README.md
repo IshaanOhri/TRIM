@@ -19,7 +19,7 @@ The service uses a Node js application server and incorporates server-side Redis
 <br>
 
 <div align="center">
-  <a href="https://trimz.tk">Start trimming your URLs today with TRIM</a>
+  <a href="https://trims.tk">Start trimming your URLs today with TRIM</a>
 </div>
 
 <br>
@@ -37,10 +37,12 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## License
+
 The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/TRIM/blob/master/LICENSE) for more information.
 
 ## Author
-- [Ishaan Ohri](https://github.com/IshaanOhri)
+
+-   [Ishaan Ohri](https://github.com/IshaanOhri)
 
 ## Tech Stacks / Tools used
 
