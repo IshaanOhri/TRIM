@@ -20,8 +20,8 @@ $(document).ready(function () {
 			} else if (!$('#short-hand').val()) {
 				showToast('Please enter proper custom URL')
 			} else {
-				const longUrl = $('#long-url').val();
-				const shortHand = $('#short-hand').val();
+				const longUrl = $('#long-url').val().trim();
+				const shortHand = $('#short-hand').val().trim();
 
 				  $.ajax({
 					"url": "https://trims.tk/create",
@@ -44,8 +44,8 @@ $(document).ready(function () {
 		} else if (!$('#long-url').val()) {
 			showToast('Please enter proper URL');
 		} else {
-			const longUrl = $('#long-url').val();
-			
+			const longUrl = $('#long-url').val().trim();
+
 			  $.ajax({
 				"url": "https://trims.tk/create",
 				"method": "POST",
