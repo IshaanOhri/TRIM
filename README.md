@@ -1,10 +1,19 @@
 <code>
-  <h1 align="center">TRIM - the URL shortener</h1>
+  <h1 align="center">TRIM</h1>
+  <h3 align="center">The URL Shortener</h3>
 </code>
+
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/IshaanOhri/TRIM?logo=github" hspace="5">
+  <img src="https://img.shields.io/github/license/IshaanOhri/TRIM" hspace="5">
+  <img src="https://img.shields.io/github/last-commit/IshaanOhri/TRIM?logo=git">
+</div>
+
+<br>
 
 <p align="center">
   Now shorten your URLs on the go with TRIM. TRIM is a fast and secure way to shorten your URLs with the ability to have custom URLs. <br>
-The service uses a Node js application server and incorporates server-side Redis caching for faster redirects. It uses Nginx as a web server for load balancing, server and client caching, SSL encryptions, and as a reverse proxy server.
+The service uses a Node js application server and incorporates server-side Redis caching for faster redirects.
 </p>
 
 <br>
@@ -14,12 +23,8 @@ The service uses a Node js application server and incorporates server-side Redis
 </div>
 
 <br>
-<br>
 
 <p  align="center"><img width="1000" src = "https://github.com/IshaanOhri/TRIM/blob/master/TRIM.gif"></p>
-
-<br>
-<br>
 
 ## Contributing
 
@@ -31,31 +36,22 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<br>
-
 ## License
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/TRIM/blob/master/LICENSE) for more information.
 
-<<<<<<< HEAD
+## Author
+- [Ishaan Ohri](https://github.com/IshaanOhri)
 
-=======
-
-> > > > > > > 73662250c4ff0d39df1fad699366aecebcfa9658
-> > > > > > > The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/TRIM/blob/master/LICENSE) for more information.
-
-<br>
-
-## Tech stacks used
+## Tech Stacks / Tools used
 
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/ts.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/typescript.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nginx.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=20>
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
@@ -77,11 +73,5 @@ Any contributions you make are **greatly appreciated**.
 
   <a href="https://github.com/IshaanOhri">
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//ishaan.gif" width="300">
   </a>
 </p>
